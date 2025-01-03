@@ -41,7 +41,7 @@ cd JavaScript-Slider
 
 ## Live Demo
 
-[Netlify Link]
+[[Live Demo](https://slider-javascript-project.netlify.app/)]
 
 ## Contributing
 
@@ -55,6 +55,20 @@ cd JavaScript-Slider
 
 This project is licensed under the MIT License. See the `LICENSE` file for more information.
 
-## Contact
+## 👨‍💻 Developer
 
-[Your contact information] 
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/siracalaks">
+        <img src="https://github.com/siracalaks.png" width="100px;" alt="Developer Profile Picture"/>
+        <br />
+        <sub><b>Sirac</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### Contact
+- 📧 Email: [siracalaks@gmail.com](mailto:email@example.com)
+- 💼 LinkedIn: [https://www.linkedin.com/in/sirac-alakus-64a29917a/](https://www.linkedin.com/in/sirac-alakus-64a29917a/)
